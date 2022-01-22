@@ -7,10 +7,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor *
 
 ### Cras pulvinar mattis nunc sed blandit libero
 
-![Github](img/mark-github.png =100x60)
+![Github](img/mark-github.png)
 
 
- First Header  | Second Header
- -------------|---------------
- Content cell | Content cell 2
- Contect column | Content column 2 
+ First Header | Second Header | Third Header | Fourth Header 
+ -------------|---------------|---------------|---------------
+ Content cell | Content cell 2| Content cell 3| Content cell 4
+ Contect column | Content column 2 | Content column 3 | Content column 4
