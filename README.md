@@ -7,9 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor *
 
 ### Cras pulvinar mattis nunc sed blandit libero
 
-![Github](img/mark-github.png)
 
-<img src="img/mark-github.png" alt="Github logo" width="200" height="100">
+<img src="img/mark-github.png" alt="Github logo" width="200" height="200">
 
 
  First Header | Second Header | Third Header | Fourth Header 
