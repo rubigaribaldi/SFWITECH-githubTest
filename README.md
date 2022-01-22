@@ -7,9 +7,9 @@
 ### Table of Contents
 
 - [Introduccion](#introduccion) :sparkles: 
-- [Tabla](#tabla) :check_mark: 
-- [Imagenes](#imagenes) :heavy_check_mark:
-- [Color](#color) :heart_decoration:
+- [Tabla](#tabla) :heart_decoration:
+- [Imagenes](#imagenes) :world_map:
+- [Color](#color)  :art:
 
 
 ## Introducción a Github
