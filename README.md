@@ -6,7 +6,7 @@
 
 ### Table of Contents
 
->:centellas: [Underline](#underline) >:centellas: 
+>:sparkles: [Underline](#underline) >:centellas: 
 - [Indent](#indent)
 - [Center](#center)
 - [Color](#color)
