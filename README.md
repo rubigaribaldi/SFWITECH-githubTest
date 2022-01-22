@@ -6,10 +6,10 @@
 
 ### Table of Contents
 
->:sparkles: [Underline](#underline) >:centellas: 
-- [Indent](#indent)
-- [Center](#center)
-- [Color](#color)
+- [Introduccion](#introduccion) :sparkles: 
+- [Tabla](#tabla) :check_mark: 
+- [Imagenes](#imagenes) :heavy_check_mark:
+- [Color](#color) :heart_decoration:
 
 
 ## Introducción a Github
