@@ -9,6 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor *
 
 ![Github](img/mark-github.png)
 
+<img src="img/mark-github.png" alt="Github logo" width="200" height="100">
+
 
  First Header | Second Header | Third Header | Fourth Header 
  -------------|---------------|---------------|---------------
